@@ -21,7 +21,7 @@ A collection of nodes and improvements created while messing around with ComfyUI
 2. Clone this repo into `custom_modules`:
     ```
     cd ComfyUI/custom_nodes
-    git clone https://github.com/rgthree/rgthree-comfy.git
+    git clone https://github.com/Waqashayder/Waqas-ComfyUI-Nodes
     ```
 3. Start up ComfyUI.
 

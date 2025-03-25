@@ -1,5 +1,5 @@
 <h1 align="center">
-    rgthree-comfy
+    Waqas-ComfyUI-Nodes
     <br>
     <sub><sup><i>Making ComfyUI more comfortable!</i></sup></sub>
     <br>
